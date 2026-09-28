@@ -1,0 +1,16 @@
+Package: OSpacing
+Type: Package
+Title: Reliability by Order Statistics
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Gigi", "Lei",
+      email = "jingzhe0131@gmail.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: Systems reliability evaluation by order statistics, considering the dependency and heterogeneity between compcomponents.
+License: MIT + file LICENSE 
+Encoding: UTF-8
+LazyData: true
+Config/roxygen2/version: 8.1.0
